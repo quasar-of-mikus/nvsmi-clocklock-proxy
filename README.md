@@ -1,4 +1,4 @@
-Works fine with no measurable overhead if gen speed <= 100 t/s
+Shat out by gemini, Works fine with no measurable overhead if gen speed <= 100 t/s
 
 Default config, edit per your machine:
 ```py
